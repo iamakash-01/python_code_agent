@@ -1,7 +1,5 @@
 
-# PYTTHON AI CODE AGENT
-
-# Simple text translation bot
+# PYTHON AI CODE AGENT
 
 Welcome to my AI agent Project! This is a AI agent built to engage with users which will help them to write efficient python code without having any prior python knowledge. This AI can be customized according to your needs and preferences only for python code.
 
