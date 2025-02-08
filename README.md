@@ -1,7 +1,5 @@
 
 # PYTTHON AI CODE AGENT
-![Logo]("/home/akash/Pictures/KODERS.pngwq")
-
 
 # Simple text translation bot
 
